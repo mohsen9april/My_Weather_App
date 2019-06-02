@@ -59,6 +59,5 @@ func updateWeatherIcon(condition: Int) -> String {
     default :
         return "dunno"
     }
-}
-    
+  }
 }
